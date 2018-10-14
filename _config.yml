@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Kai Takashi"
   avatar           : "https://avatars1.githubusercontent.com/u/18289892?s=460&v=4"
-  bio              : "Tôi là một lập trình viên"
-  location         : "Việt Nam"
+  bio              : "Lập trình viên yêu nghề"
+  location         : # "Việt Nam"
   email            :
   links:
     - label: "Email"
@@ -112,7 +112,7 @@ author:
       url: mailto:takashi.kai.101@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://cafesg.net"
+      # url: "https://cafesg.net"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
