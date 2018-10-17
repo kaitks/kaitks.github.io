@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Improve code từ những việc đơn giản - Naming: tổng quát'
 ---
 
