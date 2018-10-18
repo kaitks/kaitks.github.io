@@ -72,3 +72,7 @@ Thì biến trên là ok.
 ```
 topPageTb --> topPageThumbnails
 ```
+
+# Giải pháp
+
+https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
