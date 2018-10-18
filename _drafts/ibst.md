@@ -14,15 +14,17 @@ Vấn đề chất lượng source code không chỉ là vấn đề của riên
 
 Vì thế mình quyết định viết một series bài viết về chủ đề này, nhằm mục đích đúc kết những kinh nghiệm mà mình quan sát được trong quá trình review và phân tích chất lượng source code đến hiện tại.
 
-### Sự khác biệt của ibst với những phương pháp khác
+### ibst cùng với những phương pháp cải thiện khác
 
 ![ibst what is it](/assets/ibst-what-is-it.png)
 
-Hướng đến sự hiệu quả, dành cho mọi đối tượng.
+Là nội dung hướng dẫn ngắn hạn, hướng đến việc sửa những lỗi cơ bản trong thời gian ngắn.
 
-Nhược điểm: vì là nội dung đơn giản nên có thể nhiều mục trong đây bạn đã biết.
+Không thay thế được các phương pháp khác vì bản chất phức tạp của việc lập trình không thể tổng hợp được với mọi người. Cần tự nghiên cứu và đúc kết cho bản thân mình.
 
 ### Danh sách nội dung
+
+Thế nào là code tốt
 
 Naming (đặt tên biến, hàm)
 - Naming tổng quát
