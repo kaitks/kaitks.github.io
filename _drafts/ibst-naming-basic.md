@@ -1,8 +1,8 @@
 ---
 layout: single
-title: 'Improve code từ những việc đơn giản - Naming: cơ bản'
+title: 'Naming: cơ bản'
 categories:
-    - improve-code-tu-nhung-viec-don-gian
+    - improve-by-doing-simple-things
 ---
 
 
@@ -76,7 +76,7 @@ lkhieu chat với ltrach:
 
 ...ltrach chạy đi đánh ptan!!
 
-Lý do là tuỳ theo background của từng cá nhân mà cách hiểu sẽ khác nhau!
+Lý do là tuỳ theo background của từng cá nhân mà cách hiểu sẽ khác nhau!
 lkhieu: (*): hướng dẫn
 ltrach: (**): hấp diêm
 ```

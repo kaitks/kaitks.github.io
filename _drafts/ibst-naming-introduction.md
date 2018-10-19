@@ -1,8 +1,8 @@
 ---
 layout: single
-title: 'Improve code từ những việc đơn giản - Naming: tổng quát'
+title: 'Naming: lời nói đầu'
 categories:
-    - improve-code-tu-nhung-viec-don-gian
+    - improve-by-doing-simple-things
 ---
 
 Đặt tên là tác vụ rất phổ biến trong công việc hàng ngày của chúng ta. Khi chúng ta:
