@@ -1,6 +1,8 @@
 ---
 layout: single
 title: 'Improve code từ những việc đơn giản - Naming: cơ bản'
+categories:
+    - improve-code-tu-nhung-viec-don-gian
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: 'Improve code từ những việc đơn giản: thế nào là code tốt'
+categories:
+    - improve-code-tu-nhung-viec-don-gian
 ---
 
 ![](https://i.stack.imgur.com/eTZvW.jpg)

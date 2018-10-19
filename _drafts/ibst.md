@@ -2,7 +2,7 @@
 layout: single
 title: 'Improve code từ những việc đơn giản: lời nói đầu'
 categories:
-    - Improve code từ những việc đơn giản
+    - improve-code-tu-nhung-viec-don-gian
 ---
 
 Trong quá trình làm việc, ngoài việc học hỏi thêm những framework, ngôn ngữ, thư viện mới thì việc viết ra code dễ maintenance là việc rất quan trọng.

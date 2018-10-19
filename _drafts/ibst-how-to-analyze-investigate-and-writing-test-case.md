@@ -1,7 +1,8 @@
-
 ---
 layout: single
 title: 'Improve code từ những việc đơn giản - Phân tích yêu cầu, điều tra giải pháp và viết test-case'
+categories:
+    - improve-code-tu-nhung-viec-don-gian
 ---
 
 # Phân tích yêu cầu
