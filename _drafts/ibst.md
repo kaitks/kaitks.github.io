@@ -3,8 +3,7 @@ layout: single
 title: 'Improve code từ những việc đơn giản: lời nói đầu'
 ---
 
-Theo mình nghĩ trong quá trình làm việc, ngoài việc học hỏi thêm những framework, ngôn ngữ, thư viện mới thì việc viết ra những dòng code dễ maintenance là việc rất quan trọng.
-
+Trong quá trình làm việc, ngoài việc học hỏi thêm những framework, ngôn ngữ, thư viện mới thì việc viết ra code dễ maintenance là việc rất quan trọng.
 
 Vấn đề chất lượng source code không chỉ là vấn đề của riêng bất kỳ một công ty nào, mà theo mình quan sát trong quá trình làm việc, việc này phát sinh tại rất nhiều công ty từ quy mô lớn, trung và nhỏ.
 
@@ -27,8 +26,8 @@ Naming (đặt tên biến, hàm)
 - Naming tổng quát
 
 - Naming cơ bản
-- Naming theo đúng kiến trúc
-- Naming theo đúng business
+- Naming đúng kiến trúc
+- Naming đúng business
 
 SOLID
 
