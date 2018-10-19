@@ -10,7 +10,7 @@ Vấn đề chất lượng source code không chỉ là vấn đề của riên
 
 Vì thế mình quyết định viết một series bài viết về chủ đề này, nhằm mục đích đúc kết những kinh nghiệm mà mình quan sát được trong quá trình review và phân tích chất lượng source code đến hiện tại.
 
-### ibst cùng với những phương pháp cải thiện khác
+# ibst cùng với những phương pháp cải thiện khác
 
 ![ibst what is it](/assets/ibst-what-is-it.png)
 
@@ -18,12 +18,14 @@ Là nội dung hướng dẫn ngắn hạn, hướng đến việc sửa những
 
 Không thay thế được các phương pháp khác vì bản chất phức tạp của việc lập trình không thể tổng hợp được với mọi người. Cần tự nghiên cứu và đúc kết cho bản thân mình.
 
-### Danh sách nội dung
+# Danh sách nội dung
 
 Thế nào là code tốt
 
 Naming (đặt tên biến, hàm)
+
 - Naming tổng quát
+
 - Naming cơ bản
 - Naming theo đúng kiến trúc
 - Naming theo đúng business
@@ -31,6 +33,7 @@ Naming (đặt tên biến, hàm)
 SOLID
 
 - Simple
+
 - Open-closed
 - L
 - I

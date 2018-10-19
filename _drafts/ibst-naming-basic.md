@@ -93,15 +93,20 @@ Tùy trường hợp mà các biến trên có thể được cho phép hoặc k
 `myDbConnection`
 
 `featureScreenVC`
+
 - Nếu dự án đã có quy định trong từ điển chung của dự án (glossary) là
+
 ```
 Db = Database
 VC = ViewController
 ```
+
 Thì biến trên là ok.
 
 `topPageTb`
+
 - Trong trường hợp này, Tb có thể mang rất nhiều nghĩa, ví dụ như: Table, Thumbnail, cho nên 99% là naming của biến trên sai. Cách sửa:
+
 ```
 topPageTb --> topPageThumbnails
 ```
@@ -110,6 +115,9 @@ topPageTb --> topPageThumbnails
 
 Sử dụng một plugin kiểm tra chính tả trong source code và tiến hành sửa khi được plugin warning.
 
-Ví dụ trong VSCode, ta có plugin [Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) hỗ trợ tiếng Anh rất tốt.
+Ví dụ trong VSCode, ta có plugin [Spell Checker][spell-checker] hỗ trợ tiếng Anh rất tốt.
 
-Ngoài ra, đối với tài liệu kỹ thuật, do ta thường sử dụng in-web-editor (Confluence, Github Wiki, etc...) nên ta sẽ sử dụng plugin kiểm tra chính tả và ngữ pháp [grammarly](https://www.grammarly.com/).
+Ngoài ra, đối với tài liệu kỹ thuật, do ta thường sử dụng in-web-editor (Confluence, Github Wiki, etc...) nên ta sẽ sử dụng plugin kiểm tra chính tả và ngữ pháp [grammarly][grammarly].
+
+[spell-checker]: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+[grammarly]: https://www.grammarly.com/

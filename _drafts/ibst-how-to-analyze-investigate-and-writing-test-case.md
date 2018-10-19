@@ -19,7 +19,6 @@ title: 'Improve code từ những việc đơn giản - Phân tích yêu cầu, 
 - Nội dung yêu cầu đã rõ ràng chưa.
 
 - Với dữ liệu cung cấp đã đầy đủ chưa, đã có thể thực hiện được yêu cầu chưa.
-
 - Logic của yêu cầu có phù hợp, đồng nhất với chức năng hiện tại hay không. Có yêu cầu nào đối lập với nhau hay không.
 
 3. Document lại yêu cầu:
@@ -54,6 +53,7 @@ Ta nhận được yêu cầu thay đổi mục comment như sau từ phía khá
 
 - Format hiển thị ngày tháng đang có những pattern nào? Ví dụ:
   - Ngày comment cùng năm với năm hiện tại
+
   - Ngày comment nằm ở năm của quá khứ?
   - 18, Oct, 17 có vẻ hơi rối, liệu ta có nên ghi rõ năm ra là 2017, giữa ngày và tháng không có dấu phẩy được hay không?
   - Nếu ngày comment giá trị là rỗng hoặc null thì ta sẽ hiển thị gì?
@@ -66,6 +66,7 @@ Sau khi tiến hành điều tra source code và trao đổi với khách hàng,
 
 - Format hiển thị ngày có những pattern sau:
   - Ngày comment cùng với năm hiện tại: sẽ không hiển thị năm
+
   - Ngày comment nằm ở năm với quá khứ thì sẽ hiển thị năm, tuy nhiên nếu trước năm hiện tại 3 năm thì sẽ không hiển thị ngày, tháng, năm mà chỉ hiện: more than 3 years ago, more than 4 years ago,...
   - Năm sẽ được hiển thị full chữ, bỏ dấu phẩy giữa ngày tháng
   - Nếu ngày comment giá trị là rỗng hoặc null thì ta sẽ chỉ hiển thị "ltrach commented", bỏ chữ on.
