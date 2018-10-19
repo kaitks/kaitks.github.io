@@ -8,7 +8,6 @@ title: 'Improve code từ những việc đơn giản: thế nào là code tốt
 # Code tốt có những đặc điểm
 
 - Chạy được.
-
 - Chạy đúng yêu cầu chức năng, được test đầy đủ.
 - Dễ hiểu. Khi đọc code không cần đi vào quá chi tiết vẫn hiểu chức năng chính của code.
 - Dễ thay đổi. Khi thay đổi xảy ra, mức ảnh hưởng đối với các module khác được hạn chế. - Không gây ra lỗi bất ngờ khi thay đổi một phần của code. (rule of least surprise)
@@ -17,7 +16,6 @@ title: 'Improve code từ những việc đơn giản: thế nào là code tốt
 # Khi code tốt ta sẽ được
 
 - Người đọc code sẽ hạnh phúc.
-
 - Chức năng được phát triển nhanh.
 - Ít phải OT hơn cho người code và người maintenance code.
 - Kết quả công việc của người code được đánh giá cao.
@@ -39,6 +37,5 @@ title: 'Improve code từ những việc đơn giản: thế nào là code tốt
 Tuy nhiên, sẽ có lúc tất cả các điều kiện không thể thoả mãn được, khi đó ta sẽ lựa chọn đánh đổi theo độ ưu tiên, ví dụ:
 
 - Ta ưu tiên sự đơn giản, chấp nhận code dài hơn.
-
 - Ta chưa có giải pháp tốt, ta ưu tiên sự chính xác, hi sinh sự đơn giản và tính ngắn gọn.
 - Tuy nhiên, ta không được hi sinh sự đơn giản, để viết code ngắn hơn.

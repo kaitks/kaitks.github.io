@@ -1,6 +1,8 @@
 ---
 layout: single
 title: 'Improve code từ những việc đơn giản: lời nói đầu'
+categories:
+    - Improve code từ những việc đơn giản
 ---
 
 Trong quá trình làm việc, ngoài việc học hỏi thêm những framework, ngôn ngữ, thư viện mới thì việc viết ra code dễ maintenance là việc rất quan trọng.
@@ -24,7 +26,6 @@ Thế nào là code tốt
 Naming (đặt tên biến, hàm)
 
 - Naming tổng quát
-
 - Naming cơ bản
 - Naming đúng kiến trúc
 - Naming đúng business
@@ -32,7 +33,6 @@ Naming (đặt tên biến, hàm)
 SOLID
 
 - Simple
-
 - Open-closed
 - L
 - I
