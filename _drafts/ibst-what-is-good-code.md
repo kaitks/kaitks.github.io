@@ -13,7 +13,7 @@ categories:
 - Chạy đúng yêu cầu chức năng, được test đầy đủ.
 - Dễ hiểu. Khi đọc code không cần đi vào quá chi tiết vẫn hiểu chức năng chính của code.
 - Dễ thay đổi. Khi thay đổi xảy ra, mức ảnh hưởng đối với các module khác được hạn chế.
-- Không gây ra lỗi bất ngờ khi thay đổi một phần của code. (rule of least surprise)
+- Không gây ra lỗi bất ngờ khi thay đổi một phần của code. (Rule of least surprise)
 - Được document đầy đủ.
 
 # Khi code tốt ta sẽ được

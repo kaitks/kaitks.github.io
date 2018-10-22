@@ -15,7 +15,7 @@ Ta nhận được yêu cầu thay đổi mục comment như sau từ phía khá
 
 ## Phân tích
 
-Đây là một yêu cầu nhìn chung là đơn giản, tuy nhiên khi phân tích vào chi tiết ta sẽ thấy có nhiều điểm cần lưu ý. Ví dụ:
+Đây là một yêu cầu đơn giản, tuy nhiên khi phân tích vào chi tiết sẽ có nhiều điểm cần lưu ý. Ví dụ:
 
 - Date format thường được sử dung đồng nhất toàn dự án, nếu ta đổi date format ở màn hình này thì liệu ở những màn hình khác ta có cần làm điều tương tự hay không?
 - Format hiển thị ngày tháng đang có những pattern nào? Ví dụ:
@@ -46,3 +46,13 @@ Sau khi tiến hành phân tích thì yêu cầu ngắn ban đầu đã trở n�
 | 18/10/2018 | ltrach commented on 18 Oct (Thusday) |
 | 18/10/2015 | ltrach commented more than 3 years ago |
 | null | ltrach commented |
+
+Sau bước trên thì việc viết test-case đã kết thúc.
+
+# Lời kết
+
+Yêu cầu của khách hàng sẽ có nhiều mức độ từ đơn giản đến phức tạp. Tuy nhiên dù nội dung ban đầu như thế nào, việc phân tích, điều tra và viết test-case là những bước chuẩn bị cần thiết để đảm bảo quá trình phát triển diễn ra thuận lợi, không bị bug và đạt kì vọng từ phía khách hàng.
+
+Hi vọng qua case study này các bạn đã có được một bức tranh cơ bản về quá trình chuẩn bị này.
+
+Chúc các bạn một ngày phát triển hiệu xuất!
