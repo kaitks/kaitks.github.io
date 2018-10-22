@@ -2,10 +2,10 @@
 layout: single
 title: 'Thế nào là code tốt'
 categories:
-    - improve-by-doing-simple-things
+  - improve-by-doing-simple-things
 ---
 
-![](https://i.stack.imgur.com/eTZvW.jpg)
+![good-code-bad-code](https://i.stack.imgur.com/eTZvW.jpg)
 
 # Code tốt có những đặc điểm
 

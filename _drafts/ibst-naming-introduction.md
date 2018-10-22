@@ -2,7 +2,7 @@
 layout: single
 title: 'Naming: lời nói đầu'
 categories:
-    - improve-by-doing-simple-things
+  - improve-by-doing-simple-things
 ---
 
 Đặt tên là tác vụ rất phổ biến trong công việc hàng ngày của chúng ta. Khi chúng ta:

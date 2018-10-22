@@ -2,13 +2,12 @@
 layout: single
 title: 'Naming: cơ bản'
 categories:
-    - improve-by-doing-simple-things
+  - improve-by-doing-simple-things
 ---
-
 
 # Tiếng Anh
 
-### Tìm chỗ sai trong những naming dưới
+## Tìm chỗ sai trong những naming dưới
 
 ```
 isEdit
@@ -38,7 +37,7 @@ Cô gái tức quá hỏi lại: “Anh dám nói tôi thế hả?”
 Chàng trai ngỡ ngàng một lúc và trả lời lại: “Ben anh vua mat dien gio moi co”.
 ```
 
-### Đáp án
+## Đáp án
 
 ```
 isEdit                  --> isEdited | isEditing | isEditable
@@ -91,10 +90,10 @@ topPageTb
 
 Tùy trường hợp mà các biến trên có thể được cho phép hoặc không. Cụ thể:
 
-
-`myDbConnection`
-
-`featureScreenVC`
+```
+myDbConnection
+featureScreenVC
+```
 
 - Nếu dự án đã có quy định trong từ điển chung của dự án (glossary) là
 
@@ -105,7 +104,9 @@ VC = ViewController
 
 Thì biến trên là ok.
 
-`topPageTb`
+```
+topPageTb
+```
 
 - Trong trường hợp này, Tb có thể mang rất nhiều nghĩa, ví dụ như: Table, Thumbnail, cho nên 99% là naming của biến trên sai. Cách sửa:
 

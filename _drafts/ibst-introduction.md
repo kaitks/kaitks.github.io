@@ -2,7 +2,7 @@
 layout: single
 title: 'Improve by doing simple things: lời nói đầu'
 categories:
-    - improve-by-doing-simple-things
+  - improve-by-doing-simple-things
 ---
 
 Trong quá trình làm việc, ngoài việc học hỏi thêm những framework, ngôn ngữ, thư viện mới thì việc viết ra code dễ maintenance là việc rất quan trọng.
