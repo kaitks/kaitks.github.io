@@ -13,7 +13,7 @@ Vì thế mình quyết định viết một series bài viết về chủ đề
 
 # ibst cùng với những phương pháp cải thiện khác
 
-![ibst what is it](/assets/ibst-what-is-it.png)
+![what is ibst](/assets/ibst/what-is-ibst.png)
 
 Là nội dung hướng dẫn ngắn hạn, hướng đến việc sửa những lỗi cơ bản trong thời gian ngắn.
 

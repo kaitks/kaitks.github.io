@@ -29,7 +29,7 @@ Tiến hành phân tích yêu cầu và điều tra
 
 Sau khi nhận được câu trả lời, cập nhật yêu cầu ban đầu.
 
-![update requirement](/assets/git-workflow/update-requirement.png)
+![update requirement](/assets/git-workflow/update-requirement.png)
 
 Trình bày kết quả điều tra
 

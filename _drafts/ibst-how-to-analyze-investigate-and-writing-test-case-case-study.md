@@ -11,7 +11,7 @@ categories:
 
 Ta nhận được yêu cầu thay đổi mục comment như sau từ phía khách hàng
 
-![Mẫu yêu cầu](/assets/ibst-requirement-sample.png)
+![Mẫu yêu cầu](/assets/ibst/requirement-sample.png)
 
 ## Phân tích
 

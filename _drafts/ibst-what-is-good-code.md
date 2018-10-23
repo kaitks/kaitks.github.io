@@ -32,7 +32,7 @@ categories:
 
 # Phân biệt giữa
 
-![code tốt - code xấu](/assets/ibst-good-code-bad-code.png)
+![code tốt - code xấu](/assets/ibst/good-code-bad-code.png)
 
 Nhìn chung, chúng ta sẽ cố gắng để giữ code đảm bảo được tính chính xác (correct), đơn giản (simple), và ngắn gọn (short)
 
