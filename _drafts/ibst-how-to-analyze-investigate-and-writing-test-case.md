@@ -9,6 +9,8 @@ categories:
 
 ## Ở hình thái đơn giản nhất, việc phân tích yêu cầu sẽ bao gồm các bước sau
 
+![analyze investigate test-case](/assets/ibst/analyze-investigate-test-case.png)
+
 ### Thu thập yêu cầu ban đầu
 
 - Trao đổi trực tiếp, tổng hợp các tài liệu được giao từ phía khách hàng.
@@ -65,6 +67,11 @@ sẽ được tập trung vào tài liệu này.
   - Sơ đồ business, thực thi code (business workflow, code diagram)
 
 - Một yêu cầu quan trọng khác của Investigation report là phải thể hiện rõ được các vùng code / chức năng bị ảnh hưởng để tiến hành testing cover tất cả các vùng bị ảnh hưởng.
+
+## Work-breakdown và estimation
+
+- List việc cần phải thực hiện để hoàn thành yêu cầu của khách hàng, càng chi tiết càng tốt.
+- Estimate thời gian cần thiết để hoàn thành list việc này (tối đa 1 việc là 4h)
 
 ## Test-case (Checklist các chức năng cần thực hiện)
 
