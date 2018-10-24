@@ -5,7 +5,7 @@ categories:
   - Effective workflow on github
 ---
 
-Sau thời gian dài làm việc, mình đã có đúc kết về một quy trình làm việc trên github như sau.
+Sau thời gian làm việc và thử áp dụng tại dự án của team mình, mình đã có đúc kết về một quy trình làm việc trên github như sau.
 
 Nhận task
 

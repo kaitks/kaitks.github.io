@@ -22,7 +22,7 @@ categories:
 - Với dữ liệu cung cấp đã đầy đủ chưa, đã có thể thực hiện được yêu cầu chưa.
 - Logic của yêu cầu có phù hợp, đồng nhất với chức năng hiện tại hay không. Có yêu cầu nào đối lập với nhau hay không.
 
-### Song song với quá trình phân tích, ta tiến hành điều tra
+### Song song với việc phân tích, ta tiến hành điều tra
 
 - Mục đích của điều tra:
   - Cung cấp dữ liệu để phục vụ cho việc phân tích yêu cầu:
