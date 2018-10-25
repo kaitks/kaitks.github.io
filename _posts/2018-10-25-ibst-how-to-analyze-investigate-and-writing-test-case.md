@@ -17,7 +17,7 @@ Trao đổi trực tiếp, tổng hợp các tài liệu được giao từ phí
 
 Dịch tài liệu liên quan sang ngôn ngữ phù hợp (Việt hoặc Anh).
 
-### Phân tích yêu cầu
+### Phân tích yêu cầu
 
 Ta đặt ra các câu hỏi để làm rõ yêu cầu.
 
@@ -49,9 +49,9 @@ Tổng hợp lại yêu cầu và ghi chép thành tài liệu.
 
 Kết quả của quá trình phân tích yêu cầu và viết test-case sẽ bao gồm 3 tài liệu:
 
-## Final spec/requirement (Yêu cầu)
+## Final spec/requirement (Yêu cầu)
 
-Đây là tài liệu mà sau khi tiến hành phân tích và làm rõ yêu cầu của spec, tất cả tài liệu liên quan sẽ được tập trung vào tài liệu này, bao gồm:
+Đây là tài liệu mà sau khi tiến hành phân tích và làm rõ yêu cầu của spec, tất cả tài liệu liên quan sẽ được tập trung vào tài liệu này, bao gồm:
 
 - Yêu cầu ban đầu
 - Câu trả lời từ khách hàng
@@ -61,17 +61,17 @@ Final spec sẽ cơ sở (single source of truth) để từ đó đội phát t
 
 > Xem template Final spec [tại đây](https://github.com/kaitks/kaitks.github.io/wiki/%5BTemplate%5D-Final-spec)
 
-## Investigation report (Giải pháp & Độ ảnh hưởng)
+## Investigation report (Giải pháp & Độ ảnh hưởng)
 
 Trước khi đi vào thiết kế, tạo Detail design thì nếu được, ta nên tiến hành thảo luận và trình bày giải pháp của ta tới Upper reviewer / khách hàng. Việc này giúp:
 
-- Giảm lượng comments của Upper reviewer / khách hàng khi review detail design.
+- Giảm lượng comments của Upper reviewer / khách hàng khi review detail design.
 - Giảm khả năng phát sinh thay đổi Detail design.
 
 Nếu được, Investigation report nên bao gồm:
 
 - Prototype
-- Sample thực thi giải pháp được hiển thị trên PR của git
+- Sample thực thi giải pháp được hiển thị trên PR của git
 - Sơ đồ business, thực thi code (business workflow, code diagram)
 
 Một yêu cầu quan trọng khác của Investigation report là phải thể hiện rõ được các vùng code / chức năng bị ảnh hưởng để tiến hành testing cover tất cả các vùng bị ảnh hưởng.
@@ -80,7 +80,7 @@ Một yêu cầu quan trọng khác của Investigation report là phải thể 
 
 ## Work-breakdown và estimation
 
-List việc cần phải thực hiện để hoàn thành yêu cầu của khách hàng, càng chi tiết càng tốt.
+List việc cần phải thực hiện để hoàn thành yêu cầu của khách hàng, càng chi tiết càng tốt.
 
 Estimate thời gian cần thiết để hoàn thành list việc này (tối đa 1 việc là 4h)
 
