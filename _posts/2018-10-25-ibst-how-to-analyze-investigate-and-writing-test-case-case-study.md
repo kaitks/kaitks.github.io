@@ -9,7 +9,7 @@ categories:
 
 ## Yêu cầu
 
-Ta nhận được yêu cầu thay đổi mục comment như sau từ phía khách hàng
+Ta nhận được yêu cầu thay đổi giao diện chức năng comment từ phía khách hàng như sau
 
 ![Mẫu yêu cầu](/assets/ibst/requirement-sample.png)
 
