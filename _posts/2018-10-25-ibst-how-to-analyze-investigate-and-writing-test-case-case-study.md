@@ -3,6 +3,7 @@ layout: single
 title: 'Phân tích yêu cầu, điều tra và viết test-case: case study'
 categories:
   - improve-by-doing-simple-things
+date: 2018-10-25 01:00:00
 ---
 
 # Case study
