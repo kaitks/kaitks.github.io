@@ -7,14 +7,37 @@ categories:
 
 ![good-code-bad-code](https://i.stack.imgur.com/eTZvW.jpg)
 
+# Những đại thụ trong ngành nói gì về code
+
+```
+“Before software can be reusable it first has to be usable.” – Ralph Johnson
+
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+“First, solve the problem. Then, write the code.” – John Johnson
+
+“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” – Antoine de Saint-Exupery
+
+“Without requirements or design, programming is the art of adding bugs to an empty text file.” - Louis Srygley
+
+“Make it work, make it right, make it fast.” – Kent Beck
+
+"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
+```
+
 # Code tốt có những đặc điểm
 
-- Chạy được.
-- Chạy đúng yêu cầu chức năng, được test đầy đủ.
-- Dễ hiểu. Khi đọc code không cần đi vào quá chi tiết vẫn hiểu chức năng chính của code.
-- Dễ thay đổi. Khi thay đổi xảy ra, mức ảnh hưởng đối với các module khác được hạn chế.
-- Không gây ra lỗi bất ngờ khi thay đổi một phần của code. (Rule of least surprise)
-- Được document đầy đủ.
+Chạy đúng yêu cầu chức năng, được test đầy đủ.
+
+Dễ hiểu.
+> Khi đọc code không cần đi vào quá chi tiết vẫn hiểu chức năng chính của code.
+
+Dễ thay đổi.
+> Khi thay đổi xảy ra, mức ảnh hưởng đối với các module khác được hạn chế.
+
+Không gây ra lỗi bất ngờ khi thay đổi một phần của code. (Rule of least surprise)
+
+Được document đầy đủ.
 
 # Khi code tốt ta sẽ được
 
