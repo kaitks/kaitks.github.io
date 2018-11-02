@@ -50,3 +50,15 @@ const string = "  Node rocks!  ";
 console.log(string.trimStart());
 console.log(string.trimEnd());
 console.log(string.trim());
+
+// ---------------------------------------------------------------------------------  //
+
+try {
+  // Gọi đến Nodejs API
+} catch (error) {
+  if (error.message == 'Invalid url scheme') {
+    // do something
+  } else {
+    // do something else
+  }
+}
