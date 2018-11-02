@@ -96,7 +96,7 @@ Test-case phải được viết dựa theo hai tài liệu chính là Final spe
 - Tất cả các yêu cầu của khách hàng đã được thực hiện.
 - Những chức năng khác không bị ảnh hưởng.
 
-> Xem template Work-breakdown [tại đây](https://github.com/kaitks/kaitks.github.io/wiki/%5BTemplate%5D-Test-case)
+> Xem template Test-case [tại đây](https://github.com/kaitks/kaitks.github.io/wiki/%5BTemplate%5D-Test-case)
 
 # Case study
 
