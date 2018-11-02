@@ -5,6 +5,14 @@ categories:
   - nodejs
 ---
 
+# Tại sao nói tới Nodejs 10 vào lúc này
+
+Kể từ 2018-10-30 Nodejs 10 chính thức trở thành phiên bản Nodejs được cam kết hỗ trợ lâu dài (LTS - Long time support).
+
+Đối với đội phát triển, điều này đồng nghĩa với việc có thể tự tin nâng cấp từ Nodejs 8 lên Nodejs 10 mà không cần phải lo lắng về tính lâu dài, ổn định của nền tảng mới.
+
+![support cycle of nodejs](https://github.com/nodejs/Release/raw/master/schedule.png)
+
 ## Các function trong module `fs` đã được promisify sẵn trong module mới `fs/promises`
 
 Ở Nodejs 8 thì các function async trong module fs không hỗ trợ promise.
@@ -97,6 +105,8 @@ try {
 ```
 
 Bạn có thể xem thêm danh sách mã code tại [đây](https://nodejs.org/docs/latest-v10.x/api/errors.html)
+
+## Hỗ trợ thử nghiệm ES Module (ESM) (WIP)
 
 ## Chính thức hỗ trợ N-API (WIP)
 
