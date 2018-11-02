@@ -1,6 +1,8 @@
 ---
 layout: single
 title: So sánh Nodejs 8 và Nodejs 10
+categories:
+  - nodejs
 ---
 
 ## Các function trong module `fs` đã được promisify sẵn trong module mới `fs/promises`
