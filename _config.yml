@@ -109,7 +109,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:takashi.kai.101@gmail.com
+      url: mailto:khieulq@gmail.com
+    - label: "Linked-in"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: https://www.linkedin.com/in/khieu-le-bb6aa6164/
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://cafesg.net"
