@@ -97,7 +97,7 @@ try {
   // Gọi đến Nodejs API
 } catch (error) {
   if (error.code == ERR_INVALID_URL_SCHEME) {
-    // do somethingSCHEME
+    // do something
   } else {
     // do something else
   }
