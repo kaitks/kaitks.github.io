@@ -41,12 +41,12 @@ Sau khi tiến hành điều tra source code và trao đổi với khách hàng,
 
 Sau khi tiến hành phân tích thì yêu cầu ngắn ban đầu đã trở nên phức tạp hơn. Và nhờ việc phân tích chi tiết spec mà bây giờ ta đã có thể tiến hành viết test-case cover cho tất cả trường hợp:
 
-| Ngày comment | Hiển thị |
-|------| ------|
-| 18/10/2017 | ltrach commented on 18 Oct, 2017 (Thusday) |
-| 18/10/2018 | ltrach commented on 18 Oct (Thusday) |
-| 18/10/2015 | ltrach commented more than 3 years ago |
-| null | ltrach commented |
+| Ngày comment | Hiển thị                                   |
+| ------------ | ------------------------------------------ |
+| 18/10/2017   | ltrach commented on 18 Oct, 2017 (Thusday) |
+| 18/10/2018   | ltrach commented on 18 Oct (Thusday)       |
+| 18/10/2015   | ltrach commented more than 3 years ago     |
+| null         | ltrach commented                           |
 
 Sau bước trên thì việc viết test-case đã kết thúc.
 
