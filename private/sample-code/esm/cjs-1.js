@@ -8,5 +8,8 @@ async function main() {
 cjs2.async1()
 main()
 
-import ejs2 from './ejs-2.mjs' // Error !!!
-ejs2.async1() // Will not run !!!
+// top level import will result in error !!!
+// import ejs2 from './ejs-2.mjs' // => SyntaxError: Unexpected identifier
+// import cjs2 from './cjs-2' // => SyntaxError: Unexpected identifier
+// cjs2.async1()
+// ejs2.async1()
