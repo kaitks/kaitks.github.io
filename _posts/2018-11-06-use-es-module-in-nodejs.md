@@ -79,10 +79,12 @@ Sử dụng ESM: ta cũng sử dụng import. Tuy nhiên để import default th
 
 import cjs2 from './cjs-2' // import is also synchronous !!!
 import { sync1 } from './ejs-2.mjs'
-
 cjs2.async1()
 sync1()
 console.log('Run after sync1')
+// => ejs sync1 run
+// => Run after sync1
+// => cjs async1 run
 ```
 
 ### Lưu ý
@@ -96,7 +98,7 @@ import { async1 } from './ejs-3.mjs'
 ejs3() // => ejs async1 run
 async1() // => ejs async1 run
 
-// // if imported ESM don't have default export, default import will throw Error
+// if imported ESM don't have default export, default import will throw Error
 import ejs2 from './ejs-2.mjs'
 // => SyntaxError: The requested module './ejs-2.mjs' does not provide an export named 'default'
 ejs2.async1() // Will not run!
