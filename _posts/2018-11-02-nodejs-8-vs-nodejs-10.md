@@ -106,7 +106,11 @@ try {
 
 Bạn có thể xem thêm danh sách mã code tại [đây](https://nodejs.org/docs/latest-v10.x/api/errors.html)
 
-## Hỗ trợ thử nghiệm ES Module (ESM) (WIP)
+## Hỗ trợ thử nghiệm ES Module (ESM)
+
+ESM đã được xác định là phương hướng tương lai của Nodejs.
+
+Để biết ESM là gì, và sử dụng ra sao mời các bạn xem thêm tại bài viết [Sử dụng ES Module (ESM) trong Nodejs]({% post_url 2018-11-06-use-es-modules-in-nodejs %})
 
 ## Chính thức hỗ trợ N-API (WIP)
 

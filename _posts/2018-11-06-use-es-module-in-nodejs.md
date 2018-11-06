@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Sử dụng ES Module (ESM) trong Nodejs
+categories:
+  - nodejs
 ---
 
 # Lời nói đầu
@@ -11,7 +13,7 @@ Vì thế, để hướng đến 1 tương lai isomorphic, nơi mà cả backend
 
 Hi vọng động thái này sẽ giúp cộng đồng Nodejs nhận thức được phương hướng phát triển các module trong tương lai: ESM.
 
-Bài viết có rất nhiều code, nên để dễ theo dõi, mình khuyến khích các bạn tham khảo thêm source code tại đây nhé.
+Bài viết có rất nhiều code, nên để dễ theo dõi, mình khuyến khích các bạn tham khảo thêm [source code tại đây nhé](https://github.com/kaitks/kaitks.github.io/tree/master/private/sample-code/esm).
 
 ## Phân biệt CJS và ESM trong Nodejs
 
@@ -30,9 +32,11 @@ Bài viết có rất nhiều code, nên để dễ theo dõi, mình khuyến kh
 
 Sử dụng CJS: ta sử dụng require như bình thường.
 
-Sử dụng ESM: là async, bắc buộc phải import trong async function.
+Sử dụng ESM: là async, bắt buộc phải import trong async function.
 
 ```js
+// cjs-1.js
+
 const cjs2 = require('./cjs-2') // require is always synchronous
 
 async function main() {
@@ -68,9 +72,11 @@ ejs2.async1()
 
 Sử dụng CJS: ta sử dụng import. Chỉ có thể import default.
 
-Sử dụng ESM: ta cũng sử dụng import. Tuy nhiên để import default thì bắc buộc phía module export phải có export default.
+Sử dụng ESM: ta cũng sử dụng import. Tuy nhiên để import default thì bắt buộc phía module export phải có export default.
 
 ```js
+// ejs-1.mjs
+
 import cjs2 from './cjs-2' // import is also synchronous !!!
 import { sync1 } from './ejs-2.mjs'
 
@@ -96,10 +102,16 @@ import ejs2 from './ejs-2.mjs'
 ejs2.async1() // Will not run!
 ```
 
-Trong ESM, import CJS bắc buộc phải là default import, ngoài ra sẽ bị lỗi.
+Trong ESM, import CJS bắt buộc phải là default import, ngoài ra sẽ bị lỗi.
 
 ```js
 // Import from CJS should be default import, otherwise it will throw Error
 import { async1 } from './cjs-2' // => SyntaxError: The requested module './cjs-2' does not provide an export named 'async1'
 async1()
 ```
+
+## Lời kết
+
+Việc áp dụng ESM vào trong dự án là việc có thể thực hiện từng bước và tương đối dễ dàng. Hi vọng bài viết này sẽ giúp được các bạn phần nào trong công cuộc migrate lên chuẩn module mới.
+
+Xin cảm ơn các bạn đã theo dõi. Cheer!
