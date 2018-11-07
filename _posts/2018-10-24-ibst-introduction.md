@@ -32,16 +32,17 @@ Thế nào là code tốt
 Naming (đặt tên biến, hàm)
 
 - Naming lời nói đầu
-- Naming cơ bản
+- [Naming cơ bản vẫn là tiếng Anh]({% post_url 2018-11-03-ibst-naming-basic %})
+- [Naming magic number]({% post_url 2018-11-03-ibst-naming-magic-number.md %})
 - Naming đúng kiến trúc
 - Naming đúng business
 
 SOLID
 
-- Simple
+- Single responsibility
 - Open-closed
-- L
-- I
-- D
+- Liskov substitution principle
+- Interface segregation principle
+- Dependence inversion principle
 
 Lifestyle

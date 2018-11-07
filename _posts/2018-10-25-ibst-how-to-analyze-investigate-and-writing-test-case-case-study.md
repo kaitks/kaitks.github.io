@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Phân tích yêu cầu, điều tra và viết test-case: case study'
+title: 'Phân tích yêu cầu, điều tra và viết test-case (Phần 2)  '
 categories:
   - improve-by-doing-simple-things
 date: 2018-10-25 01:00:00
