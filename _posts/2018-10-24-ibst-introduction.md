@@ -41,8 +41,8 @@ SOLID
 
 - Single responsibility
 - Open-closed
-- Liskov substitution principle
-- Interface segregation principle
-- Dependence inversion principle
+- Liskov substitution
+- Interface segregation
+- Dependence inversion
 
 Lifestyle
