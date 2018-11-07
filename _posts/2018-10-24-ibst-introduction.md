@@ -33,7 +33,7 @@ Naming (đặt tên biến, hàm)
 
 - Naming lời nói đầu
 - [Naming cơ bản vẫn là tiếng Anh]({% post_url 2018-11-03-ibst-naming-basic %})
-- [Naming magic number]({% post_url 2018-11-03-ibst-naming-magic-number.md %})
+- [Naming magic number]({% post_url 2018-11-03-ibst-naming-magic-number %})
 - Naming đúng kiến trúc
 - Naming đúng business
 
