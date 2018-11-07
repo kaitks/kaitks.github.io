@@ -25,7 +25,7 @@ Vì là phương pháp ngắn hạn nên ibst không thay thế được các ph
 
 # Danh sách bài viết
 
-Thế nào là code tốt
+[Thế nào là code tốt]({% post_url 2018-11-07-ibst-what-is-good-code %})
 
 [Phân tích yêu cầu, điều tra và viết test-case]({% post_url 2018-10-25-ibst-how-to-analyze-investigate-and-writing-test-case %})
 
