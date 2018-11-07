@@ -12,7 +12,7 @@ Trong code, magic number là những số, chuỗi string được ghi trực ti
 Ví dụ:
 
 ```js
-let taxableIncome = getTaxableIncomeOf(userName)
+const taxableIncome = getTaxableIncomeOf(userName)
 taxAmount =
   if (taxableIncome > 100) {
     return taxableIncome * 0.25
@@ -44,7 +44,7 @@ Ví dụ đoạn code trên sau khi sửa lại:
   const LOWEST_TAX_RATE_INCOME_THRESHOLD = 10
   const NO_TAX = 0
 
-  let taxableIncome = getTaxableIncomeOf(userName)
+  const taxableIncome = getTaxableIncomeOf(userName)
   taxAmount =
     if (taxableIncome > HIGHEST_TAX_RATE_INCOME_THRESHOLD) {
       return taxableIncome * HIGHEST_TAX_RATE
