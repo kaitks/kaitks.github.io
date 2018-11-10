@@ -1,0 +1,54 @@
+---
+layout: single
+title: Áp dụng TDD vào phát triển phần mềm thực tế hàng ngày (Phần 1)
+categories:
+  - testing
+---
+
+TDD là một trong những yêu cầu bắc buộc đối với lập trình hiện đại với mục tiêu giảm số lượng bug.
+
+Tuy nhiên TDD không chỉ đơn thuần là việc viết test trước khi code và là điều mà ai cũng có thể làm được ngay lập tức.
+
+Trong thực tế, để có thể thực hiện TDD, người phát triển cần có sự hiểu biết về khái niệm, phương pháp cũng như thời gian để quen dần với cách phát triển phần mềm này.
+
+Nếu ta đánh giá thấp TDD, ta sẽ gặp thất bại khi triển khai nó ngay từ dòng code đầu tiên.
+
+## Khái niệm
+
+TDD là viết tắt của Test Driven Development.
+
+TDD có khởi thủy từ phương châm test-first-programming (test trước khi code), là một trong những phương pháp chủ đạo của [extreme programming (XP)](https://en.wikipedia.org/wiki/Extreme_programming) nổi lên từ đầu những năm 1999.
+
+Tương đồng với XP, TDD có những mục đích sau:
+
+- Early feedback: phản hồi sớm cho đội ngũ phát triển tình trạng của phần mềm.
+- Repetitive feedback: phản hồi liên tục cho đội ngũ phát triển tình trạng của phần mềm.
+- Improve design and ease of maintenance: giúp cải thiện design và tăng cường khả năng bảo trì của phần mềm.
+- Improve confidence and agility of programming: giúp tăng sự tự tin của lập trình viên và khả năng tùy biến của phần mềm.
+
+> Nếu đã từng làm qua Agile thì các bạn sẽ nhận ra các mục đích trên là tương đồng với mục đích của Agile. Lý do là vì Agile được bắt nguồn chính từ XP đấy các bạn ạ.
+
+### Test trong Test Driven Development
+
+#### Để thực hiện việc testing, chúng ta có 2 hình thức thực hiện chính
+
+- Manual test: từng bước trong việc testing được thực hiện bởi con người.
+- Automation test: từng bước trong việc testing được thực hiện bởi máy móc thông qua test code.
+
+Cả hai hình thức này đều có những ưu nhược riêng, nhưng nếu như nhìn lại mục đích của TDD, ta sẽ thấy chỉ có automation test mới đáp ứng được vì:
+
+- Nếu con người thực hiện testing sẽ mất nhiều thời gian và công sức (trí lực và nhân lực).
+  - Dẫn đến việc thời gian feedback (phản hồi) sẽ lâu.
+  - Và tần suất thực hiện sẽ ít đi.
+
+- Ngoài ra, việc con người thực hiện testing sẽ không giúp lập trình viên cải thiện được chất lượng design của phần mềm vì sự khác nhau về bản chất:
+  - Con người khi thực hiện testing chỉ quan tâm đến kết quả (end user output).
+  - Trong khi lợi ích improve design được bắt nguồn từ trong quá trình viết test code.
+
+#### Việc viết test code nên được thực hiện vào thời điểm nào
+
+Sau khi phân tích và hiểu rõ yêu cầu của khách hàng.
+
+Sau khi đã thiết kế sơ bộ cho phần code mới (được thêm hoặc sửa).
+
+Thì ta sẽ tiến hành viết test code trước khi code phần code mới này.
