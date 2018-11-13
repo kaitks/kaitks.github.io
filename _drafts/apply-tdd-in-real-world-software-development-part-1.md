@@ -11,7 +11,7 @@ Tuy nhiên TDD không chỉ đơn thuần là việc viết test trước khi co
 
 Trong thực tế, để có thể thực hiện TDD, người phát triển cần có sự hiểu biết về khái niệm, phương pháp cũng như thời gian để quen dần với cách phát triển phần mềm này.
 
-Nếu ta đánh giá thấp TDD, ta sẽ gặp thất bại khi triển khai nó ngay từ dòng code đầu tiên.
+Nếu ta đánh giá thấp TDD, ta sẽ gặp thất bại khi triển khai nó (ngay từ dòng code đầu tiên).
 
 ## Khái niệm
 
@@ -52,3 +52,41 @@ Sau khi phân tích và hiểu rõ yêu cầu của khách hàng.
 Sau khi đã thiết kế sơ bộ cho phần code mới (được thêm hoặc sửa).
 
 Thì ta sẽ tiến hành viết test code trước khi code phần code mới này.
+
+### Vòng phát triển khi sử dụng TDD
+
+Thường hay được gọi là vòng phát triển Red, Green và Refactor.
+
+#### 1. Đầu tiên ta sẽ viết 1 fail test. Có nghĩa là ta viết test code cho một chức năng, function chưa được define. Vì thế đoạn test này khi chạy chắc chắn sẽ fail.
+
+-> Test result sẽ là màu red (error).
+
+#### 2. Sau đó ta tiến hành code chức năng, function này. Trong quá trình code ta liên tục chạy test code cho đến khi đoạn test ở trên pass.
+
+-> Test result lúc này sẽ là màu green (success)
+
+Chú ý: ở step này, ta chỉ cần quan tâm đến việc đoạn test code được pass trở thành màu green. Ta chưa cần quan tâm đến việc đẹp xấu, tối ưu của chức năng, function đang được code.
+
+Việc này được thực hiện theo tinh thần: `Make it works, make it right, make it fast`
+
+#### 3. Ta tiến hành cải tiến design, refactor đoạn code ở step 2.
+
+Trong quá trình này ta có thể bổ sung thêm test-case để cover các edge case mà ta chưa cover ở step 1.
+
+Ta vẫn tiến hành viết test-code trước (1 dòng test rồi mới tới 1 dòng code).
+
+Ta không nhất thiết phải tiến hành viết tất cả test-code một lượt, mà việc viết test-code và code tốt nhất nên được tiến hành song song.
+
+### Viết test đối với chức năng mới
+
+Đầu tiên ta chuẩn bị Test-Case, trong Test-Case cần phải có ít nhất các pattern chính của business logic.
+
+Sau đó, ta sẽ viết Integration-Test code.
+
+Ví dụ như nếu ta đang cần phát triển 1 API mới, thì ta sẽ viết test-code bằng cách giả lập một request đến API này, và kiểm tra kết quả trả về.
+
+Sau khi viết test-code này xong, ta tiến hành code API này, code có thể được gom lại trong một file duy nhất.
+
+Sau khi test-code đã được pass (green), ta tiến hành refactor, thiết kế code của API thành các phần nhỏ, dễ test ví dụ như validation, data access layer, error handling.
+
+Sau đó, ta tiến hành viết test-code song song với code.
