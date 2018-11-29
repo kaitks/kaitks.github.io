@@ -57,11 +57,11 @@ Thì ta sẽ tiến hành viết test code trước khi code phần code mới n
 
 Thường hay được gọi là vòng phát triển Red, Green và Refactor.
 
-#### 1. Đầu tiên ta sẽ viết 1 fail test. Có nghĩa là ta viết test code cho một chức năng, function chưa được define. Vì thế đoạn test này khi chạy chắc chắn sẽ fail.
+#### 1. Đầu tiên ta sẽ viết 1 fail test. Có nghĩa là ta viết test code cho một chức năng, function chưa được define. Vì thế đoạn test này khi chạy chắc chắn sẽ fail
 
 -> Test result sẽ là màu red (error).
 
-#### 2. Sau đó ta tiến hành code chức năng, function này. Trong quá trình code ta liên tục chạy test code cho đến khi đoạn test ở trên pass.
+#### 2. Sau đó ta tiến hành code chức năng, function này. Trong quá trình code ta liên tục chạy test code cho đến khi đoạn test ở trên pass
 
 -> Test result lúc này sẽ là màu green (success)
 
@@ -69,7 +69,7 @@ Chú ý: ở step này, ta chỉ cần quan tâm đến việc đoạn test code
 
 Việc này được thực hiện theo tinh thần: `Make it works, make it right, make it fast`
 
-#### 3. Ta tiến hành cải tiến design, refactor đoạn code ở step 2.
+#### 3. Ta tiến hành cải tiến design, refactor đoạn code ở step 2
 
 Trong quá trình này ta có thể bổ sung thêm test-case để cover các edge case mà ta chưa cover ở step 1.
 
@@ -90,3 +90,9 @@ Sau khi viết test-code này xong, ta tiến hành code API này, code có th�
 Sau khi test-code đã được pass (green), ta tiến hành refactor, thiết kế code của API thành các phần nhỏ, dễ test ví dụ như validation, data access layer, error handling.
 
 Sau đó, ta tiến hành viết test-code song song với code.
+
+## Lời kết
+
+Để sử dụng được TDD không phải là chuyện đơn giản mà cần biết kiến thức và phương pháp phù hợp để triển khai nó.
+
+Cảm ơn các bạn đã theo dõi. Mình sẽ đi vào chi tiết hơn về các khái niệm của TDD ở phần sau nhé.
