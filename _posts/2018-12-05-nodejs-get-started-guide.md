@@ -1,11 +1,9 @@
 ---
-layout: post
-title: Nodejs Get started guide
+layout: single
+title: Hướng dẫn làm quen Nodejs
 categories:
   - nodejs
 ---
-
-# Nodejs Competence Guideline
 
 ## Lời nói đầu
 
@@ -44,8 +42,9 @@ Bạn sẽ cần hoàn thành 2 chương cuối của giáo trình [You Don't Kn
 
 Ngoài ra tại [trang chủ của Nodejs](https://nodejs.org/en/docs/guides/) cũng có những bài viết rất hay về cơ chế hoạt động của Nodejs.
 
-Ngoài ra, mặc dù không liên quan trực tiếp tới Nodejs nhưng bạn cũng cần làm quen với khái niệm Functional Programming. Trong Nodejs phương pháp code theo functional programming được sử dụng nhiều và đang là xu hướng hiện tại.
-Do đây cũng là một chủ đề lớn nên mình sẽ viết rõ vào một series bài khác.
+Ngoài ra, mặc dù không liên quan trực tiếp tới Nodejs nhưng bạn cũng cần làm quen với khái niệm Functional Programming (FP). Trong Nodejs phương pháp code theo FP đang trở nên phổ biến và đang là xu hướng hiện tại.
+
+Do FP là một chủ đề lớn nên mình sẽ viết rõ về FP trong một series bài khác.
 
 ## Tăng tốc
 
@@ -62,3 +61,5 @@ Học là một hành trình không ngừng nghỉ. Bạn có thể học thêm 
 - [Nodejs design pattern](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 
 - [Giới thiệu sâu hơn về functional programming trong Nodejs](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
+
+Chúc các bạn thành công cùng Nodejs. Cheer!

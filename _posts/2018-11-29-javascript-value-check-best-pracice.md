@@ -34,7 +34,7 @@ sample() // => undefined
 
 ## Hỗ trợ chuyển kiểu thông minh
 
-Trong javascript có hỗ trợ tự động chuyển kiêu khi so sánh bằng infix operator như `==`, `+`, `-`, `*`, `/`, `>`, `<`. Tuy nhiên hành vi của việc chuyển kiểu này hơi khó nhớ, và nếu lạm dụng thì sẽ làm cho code khó hiểu.
+Trong javascript có hỗ trợ tự động chuyển kiểu khi so sánh bằng infix operator như `==`, `+`, `-`, `*`, `/`, `>`, `<`. Tuy nhiên hành vi của việc chuyển kiểu này hơi khó nhớ, và nếu lạm dụng thì sẽ làm cho code khó hiểu.
 
 Ví dụ:
 
@@ -50,7 +50,7 @@ null == ''               // => false
 ...
 ```
 
-Ta có thể thấy sự phức tạp của việc chuyển kiêu tự động này. Vì thế thay vì sử dụng chuyển kiểu thông minh như trên, lời khuyên của mình là tránh hoàn toàn việc sử dụng các hành vi trên trong quá trình code (trừ một trường hợp mà mình sẽ nêu ở dưới).
+Ta có thể thấy sự phức tạp của việc chuyển kiểu tự động này. Vì thế thay vì sử dụng chuyển kiểu thông minh như trên, lời khuyên của mình là tránh hoàn toàn việc sử dụng các hành vi trên trong quá trình code (trừ một trường hợp mà mình sẽ nêu ở dưới).
 
 Ngoài ra, để đảm bảo code không bị lỗi, ta có thể áp dụng thêm một số quy ước:
 
@@ -113,7 +113,7 @@ let result;
 try {
   result = getDataFromDb();
 } catch {                   // xử lý db error
-  result = null             // đừng làm như vầy! nếu có một function xử dụng result và quên check null thì khả năng xảy ra lỗi rất cao!
+  result = null             // đừng làm vậy! nếu có một function xử dụng result và quên check null thì khả năng xảy ra lỗi rất cao!
   // error handle
 }
 
