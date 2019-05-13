@@ -32,6 +32,7 @@ categories:
 │   │   ├── images
 │   │   ├── javascripts
 │   │   └── stylesheets
+
 │   │       └── style.css
 │   ├── router.js               -> tất cả các router con trong domain sẽ được gom vào đây
 │   ├── service                 -> chứa business logic liên quan toàn app
@@ -46,21 +47,3 @@ categories:
 ├── manifest.yml
 └── package.json
 ```
-
-## Service
-
-Theo kiến trúc này, trong folder service, do định nghĩa chưa rõ ràng nên khả năng folder này sẽ chưa rất nhiều module khác nhau.
-
-Đối với dự án nhỏ, việc để nhiều module trong folder này sẽ không sao.
-
-Nếu dự án lớn hơn thì cần định nghĩa tốt hơn.
-
-## Constant
-
-Những giá trị constant ví dụ như UI text... sẽ được tạo trong domain con.
-
-Đối với config của các service như thông tin db... sẽ được để trong folder config.
-
-## Lib
-
-Folder lib chỉ chưa stateless module, đa phần sẽ là các utility module như Math, Formater...

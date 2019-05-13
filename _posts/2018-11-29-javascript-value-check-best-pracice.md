@@ -106,26 +106,6 @@ function myProudFunction(money) {
 }
 ```
 
-Và an toàn nhất là ta đừng bao giờ gán null cho biến, vì null phải được gán mới xuất hiện, null sẽ không tự sinh ra từ một nơi huyền bí nào cả.
-
-```js
-let result;
-try {
-  result = getDataFromDb();
-} catch {                   // xử lý db error
-  result = null             // đừng làm vậy! nếu có một function xử dụng result và quên check null thì khả năng xảy ra lỗi rất cao!
-  // error handle
-}
-
-// làm như dưới sẽ tốt hơn
-let result = [];            // better!
-try {
-  result = getDataFromDb();
-} catch {                   // xử lý db error
-  // error handle
-}
-```
-
 ## Kiểm tra array rỗng
 
 Trong javascript, array là một object, vì thế array sẽ không so sánh được với nhau.
