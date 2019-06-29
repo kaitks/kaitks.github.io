@@ -78,7 +78,7 @@ Thực tế, là senior developer, hay ngay cả tech lead cũng không phải b
 
 Giá trị lớn nhất của một senior develper, tech lead đôi khi không phải là tốc độ của họ, mà đó là kinh nghiệm được tích luỹ sau bao năm tháng làm việc ở nhiều dự án khác nhau: kinh nghiệm để biết thế nào là đủ tốt, kinh nghiệm để giảm khả năng gây ra bug, kinh nghiệm để truyền đạt được hiệu quả, kinh nghiệm để tiết kiệm thời gian cho người khác.
 
-Không phải cứ là senior developer, tech lead rồi thì họ hoàn toàn không cần giúp đỡ để đọc hiểu PR dài 200 dòng mang ý nghĩa gì. Trong thực tế Những PR mình đọc thường còn dài hơn thế. Và đó thực sự không dễ dàng.
+Không phải cứ là senior developer, tech lead rồi thì họ hoàn toàn không cần giúp đỡ để đọc hiểu PR dài 200 dòng mang ý nghĩa gì. Trong thực tế những PR mình đọc thường còn dài hơn thế. Và đó thực sự không dễ dàng.
 
 Hãy giúp đỡ người giúp bạn tốt hơn.
 
