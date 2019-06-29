@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Làm sao để giúp người review code của bạn happy hơn'
+title: 'Làm sao để giúp quá trình review code hiệu quả hơn'
 ---
 
 Trong dự án, trách nhiệm review code chính thường được giao cho những kỹ sư có kinh nghiệm. Thông thường họ sẽ là team lead, hoặc senior developer của dự án.
@@ -16,7 +16,7 @@ Vì trách nhiệm cao, những kỹ sư này thường xuyên bận rộn do c�
 
 Việc review code tuy quan trọng, nhưng không phải là tất cả những việc mà những kỹ sư này phụ trách.
 
-Ở khía cạnh khác, việc review code không phải chỉ nhằm mục đích hoàn thành công việc, mà đó còn là một trong những hình thích mentor tốt nhất, là cách truyền đạt kinh nghiệm hiệu quả giữa các kỹ sư với nhau.
+Ở khía cạnh khác, việc review code không phải chỉ nhằm mục đích hoàn thành công việc, mà đó còn là một trong những hình thức mentor tốt nhất, là cách truyền đạt kinh nghiệm hiệu quả giữa các kỹ sư với nhau.
 
 Vì thế việc trình bày PR tốt không chỉ phục vụ cho dự án, mà trên hết đó là cách giúp bản thân trưởng thành thông qua việc học hỏi kinh nghiệm từ người khác.
 
@@ -78,9 +78,9 @@ Thực tế, là senior developer, hay ngay cả tech lead cũng không phải b
 
 Giá trị lớn nhất của một senior develper, tech lead đôi khi không phải là tốc độ của họ, mà đó là kinh nghiệm được tích luỹ sau bao năm tháng làm việc ở nhiều dự án khác nhau: kinh nghiệm để biết thế nào là đủ tốt, kinh nghiệm để giảm khả năng gây ra bug, kinh nghiệm để truyền đạt được hiệu quả, kinh nghiệm để tiết kiệm thời gian cho người khác.
 
-Không phải cứ là senior developer, tech lead rồi thì họ hoàn toàn không cần giúp đỡ để đọc hiểu PR dài 200 dòng của bạn viết gì. Những PR mình thường đọc thường còn dài hơn thế.
+Không phải cứ là senior developer, tech lead rồi thì họ hoàn toàn không cần giúp đỡ để đọc hiểu PR dài 200 dòng mang ý nghĩa gì. Trong thực tế Những PR mình đọc thường còn dài hơn thế. Và đó thực sự không dễ dàng.
 
-Hãy giúp đỡ họ trong việc giúp bạn tốt hơn.
+Hãy giúp đỡ người giúp bạn tốt hơn.
 
 Side note: nếu bạn nghĩ code của bạn đã dễ hiểu, mình nghĩ bạn nên đọc bài viết: [Thế nào là code tốt]({% post_url 2019-06-29-ibst-what-is-good-code %})
 
