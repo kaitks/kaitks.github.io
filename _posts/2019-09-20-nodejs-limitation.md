@@ -32,13 +32,6 @@ module.exports = myFn; // default module function
 module.exports.otherFn = otherFn; // wrong, this will attach otherFn to myFn
 ```
 
-### Do not support null coalescing
-
-```js
-const myValue = calculateValue(params) ? calculateValue(params) : defaultValue; // long, duplicate
-const myValue = calculateValue(params) ?? defaultValue; // shorter, but not available yet
-```
-
 ### Wrong order of arguments will mess you up
 
 ```js
