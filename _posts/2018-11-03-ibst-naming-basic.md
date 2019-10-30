@@ -69,22 +69,22 @@ Tương tự với việc viết sai tiếng Anh, viết tắt không phù hợp
 ```
 Ví dụ:
 
-lkhieu chat với ltrach:
-- lkhieu: ptan dạo này làm code bug quá! mày hd (*) lại nó nhé.
-- ltrach (hớn hở): ok mày, để tao hd (**) nó.
+Tuấn chat với Sửu:
+- Tuấn: thằng Dậu dạo này làm code bug quá! mày qua hd (*) lại nó nhé.
+- Sửu: (hớn hở): ok mày, để tao hd (**) nó.
 
-...ltrach chạy đi đánh ptan!!
+...Sửu chạy đi đánh Dậu!!
 
 Lý do là tuỳ theo background của từng cá nhân mà cách hiểu sẽ khác nhau!
-lkhieu: (*): hướng dẫn
-ltrach: (**): hấp diêm
+Tuấn: (*): hướng dẫn
+Sửu: (**): hấp diêm
 ```
 
 ## Nếu vẫn muốn viết tắt, thì phải làm sao?
 
 Trong thực tế, đối với một số biến thường xuyên lặp lại, ta sẽ muốn viết tắt chúng.
 
-Tuy nhiên việc viết tắt cần phải được thực hiện thận trọng. Tùy trường hợp mà việc viết tắt có thể được cho phép hoặc không. Ví dụ:
+Tuy nhiên quy tắt viết tắt cần phải được thống nhất giữa team member. Ví dụ:
 
 ```
 myDbConnection
