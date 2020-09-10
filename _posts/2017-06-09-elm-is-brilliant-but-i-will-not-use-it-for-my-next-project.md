@@ -2,7 +2,7 @@
 layout: single
 title: Elm is brilliant, but I will not use it for my next project
 date: 2017-06-09
-categories: elm
+categories: old
 ---
 
 Because most times, Javascript is good enough.

@@ -2,7 +2,7 @@
 layout: single
 title: Sử dụng ES Module (ESM) trong Nodejs
 categories:
-  - nodejs
+  - old
 ---
 
 # Lời nói đầu

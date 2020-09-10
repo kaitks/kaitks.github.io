@@ -1,5 +1,7 @@
 ---
 layout: single
+categories:
+  - old
 ---
 
 # Cons

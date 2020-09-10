@@ -2,7 +2,7 @@
 layout: single
 title: So sánh Nodejs 8 và Nodejs 10
 categories:
-  - nodejs
+  - old
 ---
 
 # Tại sao nói tới Nodejs 10 vào lúc này

@@ -2,7 +2,7 @@
 layout: single
 title: 'Thế nào là code tốt'
 categories:
-  - improve-by-doing-simple-things
+  - programming
 ---
 
 ![good-code-bad-code](https://i.stack.imgur.com/eTZvW.jpg)

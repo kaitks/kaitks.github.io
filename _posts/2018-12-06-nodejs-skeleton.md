@@ -2,7 +2,7 @@
 layout: single
 title: Cấu trúc dự án Nodejs cơ bản
 categories:
-  - nodejs
+  - old
 ---
 
 ## Lời nói đầu

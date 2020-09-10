@@ -2,7 +2,7 @@
 layout: single
 title: 'Naming: magic number'
 categories:
-  - improve-by-doing-simple-things
+  - old
 ---
 
 # Magic number

@@ -2,7 +2,7 @@
 layout: single
 title: 'Naming: cơ bản vẫn là tiếng Anh'
 categories:
-  - improve-by-doing-simple-things
+  - old
 ---
 
 # Tiếng Anh

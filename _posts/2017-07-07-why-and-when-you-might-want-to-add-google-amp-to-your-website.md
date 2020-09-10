@@ -2,6 +2,8 @@
 layout: single
 title: Why and when you might want to add Google AMP to your website
 date: 2017-07-07
+categories:
+  - programming
 ---
 ## What is AMP?
 

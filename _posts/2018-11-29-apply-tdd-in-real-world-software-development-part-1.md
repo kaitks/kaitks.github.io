@@ -2,7 +2,7 @@
 layout: single
 title: Áp dụng TDD vào phát triển phần mềm thực tế hàng ngày (Phần 1)
 categories:
-  - testing
+  - old
 ---
 
 TDD là một trong những yêu cầu bắc buộc đối với lập trình hiện đại với mục tiêu giảm số lượng bug.

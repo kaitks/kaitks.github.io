@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  Why Rails developers will love Phoenix
-categories: elixir
+categories: old
 ---
 
 Has been working with Ruby for 3 years, I found it is a great language to read/write. The syntax is clean, the libraries are fantastic and it has a big community around to support it.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: After six months of using Atom I returned to Sublime
-categories: programming
+categories: old
 ---
 And my productivity has never been higher.
 

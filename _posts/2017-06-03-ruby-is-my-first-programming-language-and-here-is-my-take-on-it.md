@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Ruby is my first programming language, and here is my take on it
-categories: ruby
+categories: old
 ---
 Three years ago, I decided to become a programmer. After some researches, I decided Ruby will be my first programming language. I got good grade at math in high school (people joke that Vietnamese learn enough math in high school to finish Murican University). As learning resources are plenty on the Internet, I thought that the process will be smooth.
 

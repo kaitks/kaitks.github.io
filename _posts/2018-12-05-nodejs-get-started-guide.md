@@ -2,7 +2,7 @@
 layout: single
 title: Hướng dẫn làm quen Nodejs
 categories:
-  - nodejs
+  - old
 ---
 
 ## Lời nói đầu

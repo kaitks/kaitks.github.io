@@ -2,7 +2,7 @@
 layout: single
 title: 'Improve by doing simple things: lời nói đầu'
 categories:
-  - improve-by-doing-simple-things
+  - old
 date: 2018-10-24 00:00:00
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: 'Làm sao để giúp quá trình review code hiệu quả hơn'
+categories:
+  - programming
 ---
 
 Trong dự án, trách nhiệm review code chính thường được giao cho những kỹ sư có kinh nghiệm. Thông thường họ sẽ là team lead, hoặc senior developer của dự án.

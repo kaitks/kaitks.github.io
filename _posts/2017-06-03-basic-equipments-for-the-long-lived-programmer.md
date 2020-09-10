@@ -53,7 +53,7 @@ You will switch window less often, be able to stay in focus longer, and your pro
 
 23/24″ is good enough. 27″ is often too big in a normal office place. And pay attention to light reflection. It makes day and night different in the long run.
 
-### A Macbook
+### A Macbook Pro
 
 This is highly opinionated. I used both Ubuntu laptops and Macbook. Ubuntu laptops are fine but Macbook is purely great.
 - Its track-pad, keyboard and monitor are exceptional.
