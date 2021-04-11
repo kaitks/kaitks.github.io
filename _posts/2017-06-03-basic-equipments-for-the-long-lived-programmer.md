@@ -7,7 +7,7 @@ A programmer is a device for turning caffeine into code. <cite>Erdős</cite>
 
 ## Programming, even though seem easy-cheesy from the outside, is actually one of the most demanding careers
 
-Because you will sit in one place, typing on your laptop 12 hours a day and constantly focus on soulless text on a monitor, for decades.
+Because programmer will sit in one place, typing 10 hours a day while constantly focus on a big screen, for decades.
 
 It is not healthy.
 
@@ -15,13 +15,13 @@ Many programmers suffered from burn-out, hand and back injuries, as well as eyes
 
 Many had to quit.
 
-But you can make your life easier and prolonging your programming career by getting the right equipments.
+But programmer can improve their life and prolonging their career by getting the right equipments.
 
 ### A good keyboard
 
-Most companies in tech industry do not provide employees with a good keyboard. Normally you will get a HP or Dell keyboard. They are decent at best, and typing on them for a long time will hurt your fingers really bad. I've been there, and you will too.
+Most companies in tech industry do not provide employees with a good keyboard. Normally the programmer will get a HP or Dell keyboard. Typing on those keyboard for a long time will hurt your fingers. I've been there and suffered.
 
-Invest a good keyboard. Mechanical keyboards from Filco, Leopold are rock solid. They are of high-quality, non-distracting and have reasonable prices. Filco is wireless, thus more portable. Get the brown switch, it is in the sweet spot of functionality and quiet. Blue switch will annoy the crap out of your colleagues.
+Instead being suffer like me, you can invest in yourself a good keyboard. Mechanical keyboards from famous brands like Filco, Leopold are rock solid. They are of high-quality, non-distracting and have reasonable prices. Wireless one is more portable. Get the brown switch, it is in the sweet spot of functionality and quiet. Blue switch will annoy the crap out of your colleagues.
 
 ### A ergonomic mouse
 
@@ -32,16 +32,18 @@ Lots of programmers that I know play game too.
 Bad mouse holding position will lead to wrist injuries. An ergonomic mouse will make your wrist happier.
 
 There are tons of ergonomic mouse out there. I haven't try all of them. But this is what works for me:
-- If you right-handed, get a right-tilted [mouse](https://mionix.net/naos-7000).
+- If you right-handed, get a right-tilted, like [mouse](https://mionix.net/naos-7000).
 - If you are left-handed, get a left-tilted mouse.
 
-And that's usually enough.
+I haven't try other type of mouses as they don't seem suitable for gaming.
 
 ### A lambda chair
 
 [Lambda chair](https://www.autonomous.ai/office-chair) are the ones with a curved body that supports your lower back and are in perfect match with the curve of your spine.
 
 Back injuries are pretty common among office workers, especially programmers. The injuries are really bad and greatly affect your quality of life. Do not hesitate to invest in this.
+
+My legs used to be numb when I sit for an extended time. My recent company provide me with a very [good chair](https://www.humanscale.com/products/seating/world-one) and I no longer got it.
 
 ### A second monitor
 
@@ -51,23 +53,17 @@ With two monitors you get double the space to arrange your working windows. E.g.
 
 You will switch window less often, be able to stay in focus longer, and your productivity will be up at least 20% in most cases.
 
-23/24″ is good enough. 27″ is often too big in a normal office place. And pay attention to light reflection. It makes day and night different in the long run.
+23" to 27″ ones are most commons. And pay attention to monitor glare. Adjust your monitor accordingly to avoid it.
 
 ### A Macbook Pro
 
-This is highly opinionated. I used both Ubuntu laptops and Macbook. Ubuntu laptops are fine but Macbook is purely great.
-- Its track-pad, keyboard and monitor are exceptional.
-- Its battery will easily last you a day.
-- Its design screams high-quality, is minimal and well balanced in details.
+This is highly opinionated. I used both Ubuntu laptops and Macbook. Ubuntu laptops are good but Macbook is great.
+- Its track-pad and monitor are exceptional.
+- Its battery will last you a whole day.
+- Its design screams high-quality and minimal.
 - Even its adapter look nice.
-- The OS is very intuitive.
-- Its is very easy to install packages using brew.
-- If you do design, it is the natural choice as it is compatible with Adobe CS, Sketch... There is no worthy alternative.
-- It makes you feel good.
-- It is inspirational.
-- And if you want to upgrade, its resell value is high.
-
-Once you go Mac, you never go back.
+- The OS is intuitive.
+- If you also do design, it is the natural choice as it is compatible with Adobe CS, Sketch...
 
 ### A noise isolated headphone
 
