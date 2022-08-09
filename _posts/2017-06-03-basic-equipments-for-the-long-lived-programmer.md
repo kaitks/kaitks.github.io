@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Basic equipments for the long-lived programmer
 categories: programming
 ---

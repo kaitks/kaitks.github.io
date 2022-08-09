@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Kinh nghiệm kiểm tra giá trị của biến trong javascript
 ---
 

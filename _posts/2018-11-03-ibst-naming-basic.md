@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 'Naming: cơ bản vẫn là tiếng Anh'
 ---
 

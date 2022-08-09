@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 'Thế nào là code tốt'
 categories:
   - programming
@@ -123,7 +123,7 @@ Liệu bạn có thể viết "code tốt" một mình?
 
 # Chuyện ngoài lề: Ta nên ưu tiên gì?
 
-![code tốt - code xấu](/assets/ibst/good-code-bad-code.png)
+![code tốt - code xấu](/assets/images/good-code-bad-code.png)
 
 Nhìn chung, chúng ta sẽ cố gắng để giữ code đảm bảo được tính chính xác (correct), đơn giản (simple), và ngắn gọn (short)
 

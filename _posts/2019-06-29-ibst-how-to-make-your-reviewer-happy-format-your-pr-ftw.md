@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 'Làm sao để giúp quá trình review code hiệu quả hơn'
 categories:
   - programming
@@ -68,7 +68,7 @@ Ngoài ra, đối với những điểm mà người code chưa thực sự hi�
 
 Comment nên thể hiện lý do ta chọn một giải pháp, chứ không nên tập trung miêu tả về giải pháp. Ví dụ:
 
-![sample self comment](/assets/ibst/sample-self-comment.png)
+![sample self comment](/assets/images/sample-self-comment.png)
 
 Các bạn có thể tham khảo PR thực hiện các điểm trên [tại đây](https://github.com/kaitks/kaitks.github.io/pull/2)
 
