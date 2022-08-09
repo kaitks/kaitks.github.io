@@ -1,8 +1,6 @@
 ---
 layout: single
 title: 'Naming: cơ bản vẫn là tiếng Anh'
-categories:
-  - old
 ---
 
 # Tiếng Anh

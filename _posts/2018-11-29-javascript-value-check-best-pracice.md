@@ -1,8 +1,6 @@
 ---
 layout: single
 title: Kinh nghiệm kiểm tra giá trị của biến trong javascript
-categories:
-  - old
 ---
 
 Javascript là một dynamic language, và trong thiết kế ngôn ngữ có một số điểm đặc biệt khác với các ngôn ngữ khác như:

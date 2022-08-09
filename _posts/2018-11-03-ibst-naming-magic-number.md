@@ -1,8 +1,6 @@
 ---
 layout: single
 title: 'Naming: magic number'
-categories:
-  - old
 ---
 
 # Magic number
