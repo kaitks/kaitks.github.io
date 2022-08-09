@@ -21,7 +21,7 @@
 title: cafesg
 email: khieulq@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog của tôi
+  Programming blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cafesg.net"
 

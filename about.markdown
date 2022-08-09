@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My blog
+A blog about programming
