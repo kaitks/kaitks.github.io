@@ -113,9 +113,6 @@ topPageTb --> topPageThumbnails
 
 Ta nên sử dụng một plugin kiểm tra chính tả trong source code và tiến hành sửa khi được plugin warning.
 
-Ví dụ trong VSCode, ta có plugin [Spell Checker][spell-checker] hỗ trợ tiếng kiểm tra chính tả tiếng Anh.
-
 Đối với tài liệu kỹ thuật, nếu ta sử dụng in-web-editor (Confluence, Github Wiki, etc...) thì ta có thể sử dụng plugin kiểm tra chính tả và ngữ pháp [grammarly][grammarly].
 
-[spell-checker]: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 [grammarly]: https://www.grammarly.com/
